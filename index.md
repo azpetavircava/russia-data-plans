@@ -50,3 +50,10 @@ layout: default
 　　2025年了，买卡方式更多元：
 
 1.  **机场抵达厅**：最方便，尤其红眼航班落地。MTS、Beeline、Megafon（已与Tele2深度合作）柜台24小时服务
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Russia SIM 卡购买与激活指南](https://faciylike.github.io/russia-sim-guides)
